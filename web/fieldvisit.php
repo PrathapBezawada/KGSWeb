@@ -4,6 +4,7 @@ error_reporting(E_ALL);
 $html='';
 $req=(string)$_REQUEST['syncxml'];
 
+
 /*
 $req='<?xml version=\'1.0\' encoding=\'UTF-8\' standalone=\'yes\' ?><Fieldvisits><Fieldvisitor Id="a476838d-ed6c-4a53-940c-96b735e85f6f" UserName="ffchk1" FarmerID="2000002398" FarmID="583" Title="" State="Andhra" District="Nellore" Taluk="Kovur" Village="Ramanapalem" Purpose="Pre-sowing Visit" Observation="testing observation" Recommendation="testing comments" Image="" Date="05/04/2014" Latitude="17.4305772" Longitude="/storage/sdcard0/Samsung/Image/1024x600_05.jpg" /></Fieldvisits>';
 */
